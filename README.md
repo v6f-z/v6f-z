@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Anas%20Yafuz&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20GSM%20Tools%20%26%20Network%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/AnasYafuz">
+<a href="https://github.com/v6f-z">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(VB.NET+%2F+C%23+%2F+Next.js);GSM+Tools+%26+Android+device-management+software;Network+%26+Computer+Engineering+background;Mobile+phone+repair+technician+turned+developer;Turning+internal+tools+into+open-source+projects" alt="Typing SVG" />
 </a>
 
@@ -52,10 +52,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnasYafuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasYafuz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=v6f-z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v6f-z&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasYafuz&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v6f-z&theme=tokyonight&hide_border=true"/>
 
 </div>
 
