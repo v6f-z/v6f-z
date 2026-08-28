@@ -43,6 +43,7 @@
 <br/>
 <img src="https://img.shields.io/badge/GSM%20Tools-6A0DAD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADB%20%2F%20Fastboot-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
 </div>
 
