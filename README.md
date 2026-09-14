@@ -16,7 +16,7 @@
 - 🔧 Started as a **mobile phone repair technician (فني جوالات)** — that hands-on hardware experience shapes how I build device-facing software.
 - 🏗️ Desktop: **VB.NET / C# (WinForms)**. Web: **Next.js / React / TypeScript** for the tools and admin panels that support the desktop products.
 - 🗄️ Backend experience with **Firebase**, **Supabase**, and **PostgreSQL** for licensing, auth, and data-driven admin dashboards.
-- 🌱 Getting ready to open-source a new set of projects — this profile will grow as they ship.
+- 🌱 Be on the lookout — I'm preparing a lot of surprises.
 
 <br/>
 
