@@ -84,6 +84,10 @@
   <i>If you find my tools and projects useful, consider supporting my work. Your support helps keep these projects completely <b>free</b>!</i>
 </div>
 
+<div align="center">
+  **Binance ID (UID):** `1250171963`
+</div>
+
 <br/>
 
 <div align="center">
