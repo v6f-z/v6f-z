@@ -78,4 +78,27 @@
 
 </div>
 
+### 💡 Support the Developer
+
+<div align="center">
+  <i>If you find my tools and projects useful, consider supporting my work. Your support helps keep these projects completely <b>free</b>!</i>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Crypto Asset | Network | Wallet Address (Copy) | Quick Scan |
+| :--- | :--- | :--- | :---: |
+| ![USDT](https://img.shields.io/badge/USDT-Tether-26A17B?style=for-the-badge&logo=tether&logoColor=white) | **TRC20** | `TNVCcpYs4TmhxMmsvkXuQjXhxLuXsQhmXj` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=TNVCcpYs4TmhxMmsvkXuQjXhxLuXsQhmXj" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![USDT](https://img.shields.io/badge/USDT-Tether-26A17B?style=for-the-badge&logo=tether&logoColor=white) | **BEP20** | `0x38663693cd5e79b956f56fbb118672c8ea09c7f3` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=0x38663693cd5e79b956f56fbb118672c8ea09c7f3" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![BTC](https://img.shields.io/badge/BTC-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white) | **Bitcoin** | `13bPUobCPPbuYWbAHdM7U1KbQTixMrN8jH` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=bitcoin:13bPUobCPPbuYWbAHdM7U1KbQTixMrN8jH" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![ETH](https://img.shields.io/badge/ETH-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) | **ERC20** | `0x38663693cd5e79b956f56fbb118672c8ea09c7f3` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=ethereum:0x38663693cd5e79b956f56fbb118672c8ea09c7f3" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![SOL](https://img.shields.io/badge/SOL-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white) | **Solana** | `EbwZTZRhUHbo1XuaJp2vtRXjQYkamHNc5CgkujsVTS2o` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=solana:EbwZTZRhUHbo1XuaJp2vtRXjQYkamHNc5CgkujsVTS2o" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![USDC](https://img.shields.io/badge/USDC-USD_Coin-2775CA?style=for-the-badge&logo=usd-coin&logoColor=white) | **ERC20** | `0x38663693cd5e79b956f56fbb118672c8ea09c7f3` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=0x38663693cd5e79b956f56fbb118672c8ea09c7f3" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![USDC](https://img.shields.io/badge/USDC-USD_Coin-2775CA?style=for-the-badge&logo=usd-coin&logoColor=white) | **SPL** | `EbwZTZRhUHbo1XuaJp2vtRXjQYkamHNc5CgkujsVTS2o` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=solana:EbwZTZRhUHbo1XuaJp2vtRXjQYkamHNc5CgkujsVTS2o" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![USDC](https://img.shields.io/badge/USDC-USD_Coin-2775CA?style=for-the-badge&logo=usd-coin&logoColor=white) | **BEP20** | `0x38663693cd5e79b956f56fbb118672c8ea09c7f3` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=0x38663693cd5e79b956f56fbb118672c8ea09c7f3" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" width="100%"/>
