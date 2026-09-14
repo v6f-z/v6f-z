@@ -61,13 +61,6 @@
 
 <br/>
 
-### 📌 Pinned Projects
-
-> Coming soon — this section will list the open-source tools I'm currently preparing to release.
-> (Once a repo is public, pin it from **Profile → Customize your pins** so it appears here automatically.)
-
-<br/>
-
 ### 📫 Connect with Me
 
 <div align="center">
