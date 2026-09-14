@@ -63,8 +63,20 @@
 
 ### 📌 Pinned Projects
 
-> Coming soon — this section will list the open-source tools I'm currently preparing to release.
-> (Once a repo is public, pin it from **Profile → Customize your pins** so it appears here automatically.)
+#### 🔥 Sharp Odin Protocol By Anas — Samsung Advanced Flasher
+
+GSM desktop tool for flashing **Samsung** devices over the Odin download-mode protocol — built with **C# / .NET WinForms + Guna.UI2**. Includes **LZ4** partition support, PIT read, flash options, and a live color-coded log.
+
+<div align="center">
+
+<a href="https://github.com/v6f-z/SharpOdinProtocol_By_Anas"><img src="https://img.shields.io/badge/Repository-View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/v6f-z/SharpOdinProtocol_By_Anas/releases/latest"><img src="https://img.shields.io/github/v/release/v6f-z/SharpOdinProtocol_By_Anas?label=Latest%20Release&color=2A5298&style=for-the-badge"/></a>
+<a href="https://github.com/v6f-z/SharpOdinProtocol_By_Anas/stargazers"><img src="https://img.shields.io/github/stars/v6f-z/SharpOdinProtocol_By_Anas?style=for-the-badge&color=E8B339"/></a>
+<a href="https://github.com/v6f-z/SharpOdinProtocol_By_Anas/blob/main/LICENSE"><img src="https://img.shields.io/github/license/v6f-z/SharpOdinProtocol_By_Anas?style=for-the-badge&color=009688"/></a>
+
+</div>
+
+> More projects are on the way — this section will keep growing as they ship.
 
 <br/>
 
