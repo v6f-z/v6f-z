@@ -78,7 +78,7 @@
 </div>
 
 <div align="center">
-  **Binance ID (UID):** `1250171963`
+  <h2>Binance ID (UID): <code>1250171963</code></h2>
 </div>
 
 <br/>
